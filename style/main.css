@@ -79,7 +79,7 @@ html, body {
 .text-box .fake-btn {
   background-color: rgb(21, 161, 237);
   border-radius: 3px;
-  bottom: -50px;
+  bottom: -80px;
   color: #fff;
   padding: .5rem 1rem;
   position: absolute;
@@ -129,7 +129,7 @@ html, body {
   left: 41.5%;
   position: absolute;
   /* transform: scale(0.1); */
-  top: -35%;
+  top: -90%;
   width: 80px;
 }
 
